@@ -7,7 +7,7 @@
  
  4.edsrmodel.py:It contains model edsr code
  
- 5.mrdnmodel.py:It contins mrdn model code
+ 5.mrdnmodel.py:It contains mrdn model code
  
  6.mwrcamodel.py:It contains mwrca model code
  
